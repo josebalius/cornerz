@@ -1,6 +1,7 @@
 /**
 * Cornerz 0.6 - Bullet Proof Corners
 * Jonah Fox (jonah@parkerfox.co.uk) 2008
+* IE10 Fix by (jose.balius@gmail.com)
 * 
 * Usage: $('.myclass').curve(options)
 * options is a hash with the following parameters. Bracketed is the default
